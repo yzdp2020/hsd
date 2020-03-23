@@ -1,0 +1,2 @@
+# handsome-assets
+handsome主题的assets目录下静态文件，配合jsDelivr白嫖静态加速
